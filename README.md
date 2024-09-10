@@ -4,7 +4,7 @@ I'm Aubrey, and I'm currently learning about GitHub, GitHub Codespaces, and GitH
 
 ## Project Description 
 
-In this project, I: - Created a GitHub repository to understand how version control works. - Used GitHub Codespaces for editing and writing the HTML code for the webpage. - Explored basic HTML and CSS to style the webpage. - Published the webpage using GitHub Pages to understand web hosting. 
+In this project, I: Created a GitHub repository to understand how version control works, used GitHub Codespaces for editing and writing the HTML code for the webpage, explored basic HTML and CSS to style the webpage, and published the webpage using GitHub Pages to understand web hosting. 
 
 ## Files in the Repository 
 
